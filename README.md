@@ -5,12 +5,20 @@
 this is hidden
 </details>
 
+<details>
+<summary>o	How I expected the challenge to go.</summary>
+this is hidden
+</details>
 
-o	How I expected the challenge to go.
+<details>
+<summary>o	What went well? / What didn't go as planned?</summary>
+this is hidden
+</details>
 
-o	What went well? / What didn't go as planned?
-
-o	Possible improvements for future revisions of the project.
+<details>
+<summary>o	Possible improvements for future revisions of the project.</summary>
+this is hidden
+</details>
 
 
 ## o Screenshots showing your postman requests and the output from the API.
