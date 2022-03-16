@@ -9,11 +9,9 @@ o	What went well? / What didn't go as planned?
 o	Possible improvements for future revisions of the project.
 
 ## o Screenshots showing your postman requests and the output from the API.
-
+![create](https://github.com/LukeWebster89/MTG-Deck-Builder-Spring-Project/blob/dev/Documents/Screenshots/APIrequests/CreatePostman.jpg?raw=true)
 <details>
 <summary>"Create"</summary>
-![CreatePostman][create]
-  [create]: https://github.com/LukeWebster89/MTG-Deck-Builder-Spring-Project/blob/dev/Documents/Screenshots/APIrequests/CreatePostman.jpg?raw=true
 
 </details>
 
