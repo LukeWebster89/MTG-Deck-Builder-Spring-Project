@@ -93,11 +93,13 @@ public class CardDeckControllerTest {
 	
 	@Test
 	public void testUpdate() throws Exception {
+		CardDeck cardUpdate = new CardDeck(1L, "Luke Webster", "3c,1blue", "Legendary Planeswalker - Human", 6, 6, "Double Strike", "Mythic Rare");
+		String cardUpdateAsJSON = this.mapper.writeValueAsString(cardUpdate);
 		
 		CardDeck cardChange = new CardDeck (1L, "Luke Webster", "3c,1blue", "Legendary Planeswalker - Human", 6, 6, "Double Strike", "Mythic Rare");
 		String cardChangeAsJSON = this.mapper.writeValueAsString(cardChange);
 		
-		RequestBuilder req = put("/card_deck/update/1").content(cardChangeAsJSON).contentType(MediaType.APPLICATION_JSON);
+		RequestBuilder req = put("/card_deck/update/1").content(cardUpdateAsJSON).contentType(MediaType.APPLICATION_JSON);
 				
 		ResultMatcher checkStatus = status().isAccepted();
 		ResultMatcher checkBody = content().json(cardChangeAsJSON);
