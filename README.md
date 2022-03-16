@@ -67,4 +67,5 @@ this is hidden
 
 
 ## o	Link to Jira Board - You must add Jordan as collaborators also.
-
+Click this link ↓
+[Jira Scrum Board](https://lukewebster89.atlassian.net/jira/software/projects/QSP/boards/5/roadmap?shared=&atlOrigin=eyJpIjoiYzllY2Y1MzVlNmJiNDE4ZGIwZWI2MzA3YWNjMjI4MmYiLCJwIjoiaiJ9)
