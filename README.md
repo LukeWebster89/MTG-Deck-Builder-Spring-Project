@@ -9,10 +9,11 @@ o	What went well? / What didn't go as planned?
 o	Possible improvements for future revisions of the project.
 
 ## o Screenshots showing your postman requests and the output from the API.
-![create](https://github.com/LukeWebster89/MTG-Deck-Builder-Spring-Project/blob/dev/Documents/Screenshots/APIrequests/CreatePostman.jpg?raw=true)
+
 <details>
 <summary>"Create"</summary>
-
+![create](https://github.com/LukeWebster89/MTG-Deck-Builder-Spring-Project/blob/dev/Documents/Screenshots/APIrequests/CreatePostman.jpg?raw=true) 
+  
 </details>
 
 <details>
@@ -43,39 +44,46 @@ o	Possible improvements for future revisions of the project.
 
 <details>
 <summary>"Create"</summary>
-this is hidden
+![CreateMySQL](https://user-images.githubusercontent.com/97948290/158589191-628534b5-13fc-459b-a25a-0bb7788be085.jpg)
+
 </details>
 
 <details>
 <summary>"Update"</summary>
-this is hidden
+![UpdateMySQL](https://user-images.githubusercontent.com/97948290/158589225-e171b01a-d6aa-415d-8a52-1210bf9e4987.jpg)
+
 </details>
 
 <details>
 <summary>"Delete"</summary>
-this is hidden
+![DeleteMySQL](https://user-images.githubusercontent.com/97948290/158589257-b77f1f42-0cd7-4414-a052-7264371f3ff1.jpg)
+
 </details>
 
 
 ## o	Screenshot of your test results, including coverage report.
 <details>
 <summary>"Overall Coverage"</summary>
-this is hidden
+![AllTestsCoverage](https://user-images.githubusercontent.com/97948290/158589320-0515b6b0-9f32-4284-ad0c-93d15dd3e5c2.jpg)
+
 </details>
 
 <details>
 <summary>"Entity Test"</summary>
-this is hidden
+![EntityTest](https://user-images.githubusercontent.com/97948290/158589347-543e259c-0779-43d8-8a85-7a2cb7f91517.jpg)
+
 </details>
 
 <details>
 <summary>"Controller Test"</summary>
-this is hidden
+![ControllerTest](https://user-images.githubusercontent.com/97948290/158589379-cfa92595-d3c1-43c8-ad5b-7f424324f78c.jpg)
+
 </details>
 
 <details>
 <summary>"Service Test"</summary>
-this is hidden
+![ServiceUnitTest](https://user-images.githubusercontent.com/97948290/158589403-21a873e5-37cb-4c03-bea2-815e69b4600e.jpg)
+
 </details>
 
 ## o	Link to Jira Board - You must add Jordan as collaborators also.
