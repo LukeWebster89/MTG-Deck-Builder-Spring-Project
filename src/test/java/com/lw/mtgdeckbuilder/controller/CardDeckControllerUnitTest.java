@@ -83,7 +83,7 @@ public class CardDeckControllerUnitTest {
 	}
 	
 	@Test
-	public void deleteTest() {
+	public void deleteTrueTest() {
 		Mockito.when(this.service.delete(1)).thenReturn(true);
 		
 		ResponseEntity<CardDeck> response = new ResponseEntity<CardDeck>(HttpStatus.NO_CONTENT);
@@ -91,6 +91,17 @@ public class CardDeckControllerUnitTest {
 		assertThat(response).isEqualTo(this.controller.deleteCard(1));
 				
 		Mockito.verify(this.service, times(1)).delete(1);
+	}
+	
+	@Test
+	public void deleteFalseTest() {
+		Mockito.when(this.service.delete(2)).thenReturn(false);
+		
+		ResponseEntity<CardDeck> response = new ResponseEntity<CardDeck>(HttpStatus.NOT_FOUND);
+		
+		assertThat(response).isEqualTo(this.controller.deleteCard(2));
+		
+		Mockito.verify(this.service, times(1)).delete(2);
 	}
 	
 	
