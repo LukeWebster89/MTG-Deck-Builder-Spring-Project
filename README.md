@@ -1,6 +1,10 @@
 # MTG-Deck-Builder-Spring-Project
 
-o	Why are we doing this?
+<details>
+<summary>o	Why are we doing this?</summary>
+this is hidden
+</details>
+
 
 o	How I expected the challenge to go.
 
