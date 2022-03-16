@@ -2,7 +2,7 @@
 
 <details>
 <summary>o	Why are we doing this?</summary>
-this is hidden
+
 </details>
 
 <details>
@@ -66,7 +66,7 @@ this is hidden
 ![ServiceUnitTest](https://user-images.githubusercontent.com/97948290/158589403-21a873e5-37cb-4c03-bea2-815e69b4600e.jpg)
 
 
-## o	Link to Jira Board - You must add Jordan as collaborators also.
+## o	Link to Jira Board 
 Click this link ↓  
 
 [Jira Scrum Board](https://lukewebster89.atlassian.net/jira/software/projects/QSP/boards/5/roadmap?shared=&atlOrigin=eyJpIjoiYzllY2Y1MzVlNmJiNDE4ZGIwZWI2MzA3YWNjMjI4MmYiLCJwIjoiaiJ9)
