@@ -12,7 +12,8 @@ o	Possible improvements for future revisions of the project.
 
 <details>
 <summary>"Create"</summary>
-![CreatePostman](https://github.com/LukeWebster89/MTG-Deck-Builder-Spring-Project/blob/dev/Documents/Screenshots/APIrequests/CreatePostman.jpg)
+![CreatePostman][create]
+  [create]: https://github.com/LukeWebster89/MTG-Deck-Builder-Spring-Project/blob/dev/Documents/Screenshots/APIrequests/CreatePostman.jpg?raw=true
 
 </details>
 
