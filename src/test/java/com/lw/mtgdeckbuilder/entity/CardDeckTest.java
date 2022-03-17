@@ -93,4 +93,4 @@ public class CardDeckTest {
 		assertEquals(card.getType(), "Tree Creature");
 	}
 
-}
+} 
