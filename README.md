@@ -4,7 +4,13 @@
 <summary>o	Why are we doing this?</summary>  
     
 To create a Spring Boot API, with utilisation of supporting tools, methodologies, and technologies, 
-that encapsulates all fundamental and practical modules covered during training.
+that encapsulates all fundamental and practical modules covered during training.  
+    
+    Specifically, we were required to create a Spring Boot API using:
+●	an application back-end developed using the language from your Programming Fundamentals module (Java)
+●	a managed database hosted locally or within the Cloud Provider examined during your Cloud Fundamentals module (MySQL)
+●	a means of making API calls (Postman) and a means of checking persistence (Workbench)
+
   
 </details>
 
@@ -18,9 +24,11 @@ I expected the project to go well. I was fairly confident in the build up to thi
 <details>
 <summary>o	What went well? / What didn't go as planned?</summary>  
   
-I was pleased with the overall build of my project and that it functioned as I would have liked. My postman requests were all succesful and my database could store the type of data that I wanted.
+I was pleased with the overall build of my project and that it functioned as I would have liked. My postman requests were all succesful and my database could store the type of data that I wanted.  
+    
+Thankfully, I didn't run into any of the problems I'd planned for on my risk assessment which also made the project run smoothly.  
 
-I wasn't able to get complete 100% coverage with my testing but I am still pleased with the amount that I did manage to achieve. 
+I wasn't able to get complete 100% coverage with my testing but I am still pleased with the amount that I did manage to achieve.   
   
 </details>
 
