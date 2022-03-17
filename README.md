@@ -6,10 +6,10 @@
 To create a Spring Boot API, with utilisation of supporting tools, methodologies, and technologies, 
 that encapsulates all fundamental and practical modules covered during training.  
     
-    Specifically, we were required to create a Spring Boot API using:
-●	an application back-end developed using the language from your Programming Fundamentals module (Java)
-●	a managed database hosted locally or within the Cloud Provider examined during your Cloud Fundamentals module (MySQL)
-●	a means of making API calls (Postman) and a means of checking persistence (Workbench)
+Specifically, we were required to create a Spring Boot API using:  
+*	an application back-end developed using the language from your Programming Fundamentals module (Java)
+*	a managed database hosted locally or within the Cloud Provider examined during your Cloud Fundamentals module (MySQL)
+*	a means of making API calls (Postman) and a means of checking persistence (Workbench)
 
   
 </details>
