@@ -1,23 +1,23 @@
 # MTG-Deck-Builder-Spring-Project
 
 <details>
-<summary>o	Why are we doing this?</summary>
-  
+<summary>o	Why are we doing this?</summary>  
+    
 To create a Spring Boot API, with utilisation of supporting tools, methodologies, and technologies, 
 that encapsulates all fundamental and practical modules covered during training.
   
 </details>
 
 <details>
-<summary>o	How I expected the challenge to go.</summary>
-
+<summary>o	How I expected the challenge to go.</summary>  
+  
 I expected the project to go well. I was fairly confident in the build up to this week after getting to grips with the fundamentals during the training weeks. I thought that the testing would be the most difficult part, which proved to be true. 
   
 </details>
 
 <details>
-<summary>o	What went well? / What didn't go as planned?</summary>
-
+<summary>o	What went well? / What didn't go as planned?</summary>  
+  
 I was pleased with the overall build of my project and that it functioned as I would have liked. My postman requests were all succesful and my database could store the type of data that I wanted.
 
 I wasn't able to get complete 100% coverage with my testing but I am still pleased with the amount that I did manage to achieve. 
@@ -25,8 +25,8 @@ I wasn't able to get complete 100% coverage with my testing but I am still pleas
 </details>
 
 <details>
-<summary>o	Possible improvements for future revisions of the project.</summary>
-
+<summary>o	Possible improvements for future revisions of the project.</summary>  
+  
 To improve the project, I could add more functionality to the searches e.g. a 'find by type' feature. I would also add more data fields which could be added to the database.
   
 </details>
