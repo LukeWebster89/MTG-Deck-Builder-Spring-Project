@@ -2,22 +2,33 @@
 
 <details>
 <summary>o	Why are we doing this?</summary>
-
+  
+To create a Spring Boot API, with utilisation of supporting tools, methodologies, and technologies, 
+that encapsulates all fundamental and practical modules covered during training.
+  
 </details>
 
 <details>
 <summary>o	How I expected the challenge to go.</summary>
-this is hidden
+
+I expected the project to go well. I was fairly confident in the build up to this week after getting to grips with the fundamentals during the training weeks. I thought that the testing would be the most difficult part, which proved to be true. 
+  
 </details>
 
 <details>
 <summary>o	What went well? / What didn't go as planned?</summary>
-this is hidden
+
+I was pleased with the overall build of my project and that it functioned as I would have liked. My postman requests were all succesful and my database could store the type of data that I wanted.
+
+I wasn't able to get complete 100% coverage with my testing but I am still pleased with the amount that I did manage to achieve. 
+  
 </details>
 
 <details>
 <summary>o	Possible improvements for future revisions of the project.</summary>
-this is hidden
+
+To improve the project, I could add more functionality to the searches e.g. a 'find by type' feature. I would also add more data fields which could be added to the database.
+  
 </details>
 
 
@@ -54,16 +65,19 @@ this is hidden
 ## o	Screenshot of your test results, including coverage report.
 
 ### Overall Coverage
-![AllTestsCoverage](https://user-images.githubusercontent.com/97948290/158589320-0515b6b0-9f32-4284-ad0c-93d15dd3e5c2.jpg)
+![OverallTestCoverage](https://user-images.githubusercontent.com/97948290/158786202-db0237a6-85e1-4eee-9732-e6db92ff4f3e.jpg)
 
 ### Entity Test
-![EntityTest](https://user-images.githubusercontent.com/97948290/158589347-543e259c-0779-43d8-8a85-7a2cb7f91517.jpg)
+![EntityTest](https://user-images.githubusercontent.com/97948290/158786280-9eb3b889-6613-4f02-8dda-3fab726ac8d7.jpg)
 
-### Controller Test
-![ControllerTest](https://user-images.githubusercontent.com/97948290/158589379-cfa92595-d3c1-43c8-ad5b-7f424324f78c.jpg)
+### Controller Unit Test
+![ControllerUnitTest](https://user-images.githubusercontent.com/97948290/158786348-02020223-7756-401a-8fec-aba4f528b65a.jpg)
+
+### Controller Integration Test
+![ControllerIntegrationTest](https://user-images.githubusercontent.com/97948290/158786436-1282d57f-418a-4cc8-a3cd-c44469c9007f.jpg)
 
 ### Service Test
-![ServiceUnitTest](https://user-images.githubusercontent.com/97948290/158589403-21a873e5-37cb-4c03-bea2-815e69b4600e.jpg)
+![ServiceUnitTest](https://user-images.githubusercontent.com/97948290/158786477-64c548c6-b3ae-46b5-a98d-148650e81da4.jpg)
 
 
 ## o	Link to Jira Board 
